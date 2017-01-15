@@ -89,6 +89,9 @@ II. Elections Process
 	E. Ballot Process
 		1. Staff position votes will be collected via paper secret ballot. Ballots will be distributed after the candidate forum and will be returned to a monitored ballot box. Candidates will be elected by simple majority, using an instant run-off system if there are more than two separate candidates for a single position. The election Assistants will independently count the votes and consult with each other prior to instant run-off phase or announcement of the winner.  The vote count totals will be made publicly available.
 			a. Instant run-off is when voters rank candidates in order of preference. In the event that one candidate fails to achieve a sufficient majority, the candidate with the fewest number of first-preference rankings is eliminated and these votes redistributed, the process being repeated until one candidate achieves the required majority.
+			
+		2. No Confidence
+			Votes of no confidence are allowed. If no confidence receieves a majority vote, additional dandidates may be nominated, bypassind the requirement for a statement of interest. (II.C.1) and the election is re-run. If no candidate receives a majority, the PSWD Camping Ministries Director shall appoint the position at their discretion.
 
 III. YA Camp Business Meeting
 	A. Meeting Facilitation
